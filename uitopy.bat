@@ -1,7 +1,7 @@
 @echo off
 :start
 
-cd "directory of your .ui projects"
+cd "directory of pyuic5.exe"
 
 set /p changer=Degistirmek istediginiz ui dosyasi nedir?
 
